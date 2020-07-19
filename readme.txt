@@ -5,3 +5,4 @@ master  and ft1 add
 dev no ff
 ft2 test
 ft3 test
+master fixed bug
